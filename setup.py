@@ -25,10 +25,10 @@ dynamic_requires = []
 
 setup(
     name='lakeside',
-    version="0.12",
+    version="0.13",
     author='Matthew Garrett',
     author_email='mjg59@google.com',
-    url='http://github.com/google/python-lakeside',
+    url='http://github.com/nkgilley/python-lakeside',
     packages=find_packages(),
     scripts=[],
     description='Python API for controlling Eufy LED bulbs',
